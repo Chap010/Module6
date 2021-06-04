@@ -1,0 +1,14 @@
+/Users/GreaserSec/Documents/Escuela/Computer Programming 131/C-Sharp Projects 131/131Module5/131Module5/bin/Release/net5.0/131Module5.deps.json
+/Users/GreaserSec/Documents/Escuela/Computer Programming 131/C-Sharp Projects 131/131Module5/131Module5/bin/Release/net5.0/131Module5.runtimeconfig.json
+/Users/GreaserSec/Documents/Escuela/Computer Programming 131/C-Sharp Projects 131/131Module5/131Module5/bin/Release/net5.0/131Module5.runtimeconfig.dev.json
+/Users/GreaserSec/Documents/Escuela/Computer Programming 131/C-Sharp Projects 131/131Module5/131Module5/bin/Release/net5.0/131Module5.dll
+/Users/GreaserSec/Documents/Escuela/Computer Programming 131/C-Sharp Projects 131/131Module5/131Module5/bin/Release/net5.0/ref/131Module5.dll
+/Users/GreaserSec/Documents/Escuela/Computer Programming 131/C-Sharp Projects 131/131Module5/131Module5/bin/Release/net5.0/131Module5.pdb
+/Users/GreaserSec/Documents/Escuela/Computer Programming 131/C-Sharp Projects 131/131Module5/131Module5/obj/Release/net5.0/131Module5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/GreaserSec/Documents/Escuela/Computer Programming 131/C-Sharp Projects 131/131Module5/131Module5/obj/Release/net5.0/131Module5.AssemblyInfoInputs.cache
+/Users/GreaserSec/Documents/Escuela/Computer Programming 131/C-Sharp Projects 131/131Module5/131Module5/obj/Release/net5.0/131Module5.AssemblyInfo.cs
+/Users/GreaserSec/Documents/Escuela/Computer Programming 131/C-Sharp Projects 131/131Module5/131Module5/obj/Release/net5.0/131Module5.csproj.CoreCompileInputs.cache
+/Users/GreaserSec/Documents/Escuela/Computer Programming 131/C-Sharp Projects 131/131Module5/131Module5/obj/Release/net5.0/131Module5.dll
+/Users/GreaserSec/Documents/Escuela/Computer Programming 131/C-Sharp Projects 131/131Module5/131Module5/obj/Release/net5.0/ref/131Module5.dll
+/Users/GreaserSec/Documents/Escuela/Computer Programming 131/C-Sharp Projects 131/131Module5/131Module5/obj/Release/net5.0/131Module5.pdb
+/Users/GreaserSec/Documents/Escuela/Computer Programming 131/C-Sharp Projects 131/131Module5/131Module5/obj/Release/net5.0/131Module5.genruntimeconfig.cache
