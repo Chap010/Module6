@@ -13,14 +13,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/GreaserSec/Documents/Escuela/Computer Programming 131/C-Sharp Projects 131/131Module5/131Module5/131Module5.csproj",
-      "projectName": "131Module5",
-      "projectPath": "/Users/GreaserSec/Documents/Escuela/Computer Programming 131/C-Sharp Projects 131/131Module5/131Module5/131Module5.csproj",
+      "projectUniqueName": "/Users/GreaserSec/Documents/Escuela/Computer Programming 131/C-Sharp Projects 131/131Module5/131Module5/131Module6.csproj",
+      "projectName": "131Module6",
+      "projectPath": "/Users/GreaserSec/Documents/Escuela/Computer Programming 131/C-Sharp Projects 131/131Module5/131Module5/131Module6.csproj",
       "packagesPath": "/Users/GreaserSec/.nuget/packages/",
       "outputPath": "/Users/GreaserSec/Documents/Escuela/Computer Programming 131/C-Sharp Projects 131/131Module5/131Module5/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/GreaserSec/.nuget/NuGet/NuGet.Config"
+        "/Users/GreaserSec/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
